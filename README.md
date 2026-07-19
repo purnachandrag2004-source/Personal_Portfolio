@@ -64,9 +64,9 @@
 
   ## 📧 Contact
 
-  - **Email**: vedanth@example.com
+  - **Email**: gpurnchandra63@gmail.com
   - **Location**: Tirupati
-  - **Phone**: +91 1234567890
+  - **Phone**: +91 6309841181
 
   ## 📄 Resume
 
